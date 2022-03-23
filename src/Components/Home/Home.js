@@ -6,15 +6,17 @@ import Login from "../Login/Login";
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="home d-flex">
       <div
         className="home-1st-part"
-        style={{ backgroundColor: "black", width: "75%", height: "680px" }}
+        style={{ backgroundColor: "black", width: "60%", height: "650px" }}
       >
         <img className="img1" src={img2} alt="" />
         <img className="img2" src={img1} alt="" />
       </div>
-      <div style={{ backgroundColor: "#E5E5E5", height: "680px" }}></div>
+      <div
+        style={{ backgroundColor: "#FFFFFF", width: "40%", height: "650px" }}
+      ></div>
       <div className="login-part">
         <Login></Login>
       </div>

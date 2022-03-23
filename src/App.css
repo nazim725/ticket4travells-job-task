@@ -1,6 +1,7 @@
 .app {
   position: relative;
+  background-color: #e5e5e5;
 }
 .login-part {
-  margin-left: 300px;
+  margin-left: 240px;
 }
