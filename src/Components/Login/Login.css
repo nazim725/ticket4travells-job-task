@@ -1,0 +1,61 @@
+.login {
+  width: 540px;
+  height: 540px;
+  background: #ffffff;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+.logo {
+  /* margin: auto; */
+  text-align: center;
+}
+.logo img {
+  width: 90px;
+  height: 90px;
+  margin-top: 50px;
+}
+.input {
+  width: 250px;
+  height: 30px;
+}
+.logo p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+.button {
+  width: 250px;
+  height: 30px;
+  background: #3e489a;
+  border-radius: 10px;
+}
+
+hr {
+  width: 160px;
+  padding: 1px;
+  color: black;
+}
+.google {
+  width: 55px;
+  height: 55px;
+  margin-left: 50px;
+}
+.fb {
+  width: 45px;
+  height: 45px;
+}
+.social-logo {
+  text-align: center;
+}
+
+.signup {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 16px;
+  text-align: center;
+  color: #707070;
+}
